@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PC02</string>
+    <string name="valDNI">Ingrese su correo</string>
+    <string name="valclave">Ingrese su clave</string>
+    <string name="valIngresar">Ingresar</string>
+    <string name="valRegistro">Crear cuenta</string>
+    <string name="valingresecorreo">Ingrese su correo</string>
+    <string name="valingresenombre">Ingrese su nombre completo</string>
+    <string name="valingreseclave">Ingrese su clave</string>
+    <string name="valingreseclaveconf">Ingrese nuevamente su clave</string>
+    <string name="valregistrarcuenta">Registrar cuenta</string>
+    <string name="valIniciarSesion">Iniciar Sesion</string>
+</resources>
